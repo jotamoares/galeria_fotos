@@ -1,0 +1,16 @@
+/* styles.css */
+.nav-fill-justified {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-fill-justified .nav-link {
+    background-color: black;
+    flex-grow: 1;
+    text-align: center;
+}
+.barra{
+    background-color: black;
+    color: antiquewhite;
+}
